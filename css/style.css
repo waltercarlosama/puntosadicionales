@@ -247,10 +247,10 @@ div {
         #apDiv26 {
 	position: absolute;
 	width: 576px;
-	height: 26px;
+	height: 100px;
 	z-index: 11;
 	left: 328px;
-	top: 150px;
+	top: 996px;
 	font-size: 12px;
 	color: #FFF;
 }
